@@ -27,7 +27,6 @@ function layerdDiscountTotal(quantity) {
         const total = first100Price + second100Price + remainingquantity;
         return total;
     }
-
 }
 const storagetotal=layerdDiscountTotal(200);
 console.log(storagetotal);
