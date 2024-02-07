@@ -8,11 +8,11 @@ function subtruct(num1, num2) {
     return sub;
 }
 function multi(num1, num2) {
-    const mul=num1 * num2;
+    const mul = num1 * num2;
     return mul;
 }
 function divide(num1, num2) {
-    const div=num1 / num2;
+    const div = num1 / num2;
     return div;
 }
 function calculator(a, b, operation) {
